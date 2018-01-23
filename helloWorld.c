@@ -8,7 +8,7 @@
 
 int main(int argc, char **argv) {
 
-	printf("Hello World\n");
+	printf("Gerson Uriarte & Joseph Mueller\n");
 	return 0;
 
 }
